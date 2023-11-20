@@ -5,6 +5,5 @@ def call_test2 ():
     msg = 'Call test 2 worked!'
     return msg
 
-call_test1()
-print(call_test2())
+
     
